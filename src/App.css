@@ -1,0 +1,65 @@
+.caculatorPannel {
+  width: 300px;
+  height: 500px;
+  background-color: RGB(247,202,201);
+  border-style: solid;
+  border-width:thick;
+  border-color: black;
+  border-radius: 10px;
+  margin-left: 100px;
+
+}
+.historyButtonpannel{
+    width:700px;
+    height: 700px;
+    margin-left: 400px;
+  background-color: white;
+}
+.operatorpannel {
+  width :300px;
+  height : 50px;
+  padding: 30px 0px 30px 0px;
+  background-color: #98ddde;
+
+
+
+}
+.displayplace {
+  width:270px;
+  height:50px;
+  background-color: white;
+  border-radius: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  margin-bottom: 60px;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  position: relative;
+  top: 20px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 40px;
+}
+h3 {
+
+
+
+}
+.button {
+  width: 50px;
+  height : 50px;
+  background-color: RGB(146,168,209);
+  color:white;
+  border-radius:30px;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+.button:hover{
+  background-color: #034f84;
+  cursor:pointer;
+  transform: scale(1.3);
+
+}
